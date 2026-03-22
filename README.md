@@ -6,6 +6,7 @@
 
 ## Build
     - change ip and port in client.go and server.go
+    - go get github.com/kbinani/screenshot
     - go build mod init gorat
     - go build client.go
     - go build server.go
